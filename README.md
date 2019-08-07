@@ -8,7 +8,7 @@ This has been published because:
 What it includes:
 The Paradise SPRX World at War source code! Yay!
 
-Many people have asked for this so if you find it, here it is!
+Many people have asked for this so, here it is!
 
 
 Has many features like aimbots and cool tricks only possible on older call of duty's and anti-cheat against non-host cheats like godmode and noclip.
